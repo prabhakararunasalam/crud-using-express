@@ -1,0 +1,19 @@
+{
+  "name": "day-1",
+  "version": "1.0.0",
+  "description": "day-1 in backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "Start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "prabhakar",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.7"
+  }
+}
